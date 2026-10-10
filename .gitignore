@@ -1,0 +1,11 @@
+# Local dev environment
+.venv/
+__pycache__/
+*.pyc
+
+# Build outputs (see pyproject.toml / _build_backend.py)
+*.egg-info/
+.pip-build/
+build/
+dist/
+src/neuron_agentic_development/artifacts/
